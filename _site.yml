@@ -1,0 +1,13 @@
+name: ""
+navbar:
+  title: "Your English & Italian tutor"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Russian"
+      href: Russian.html
+    - text: "English"
+      href: English.html
+    - text: "Italian"
+      href: Italian.html
+output_dir: "docs"

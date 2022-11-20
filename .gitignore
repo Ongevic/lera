@@ -1,0 +1,41 @@
+#history
+.Rproj.user
+.Rhistory
+.Rapp.history
+
+#session data
+.RData
+
+#user-specifc files 
+.Ruserdata
+
+
+#output files from R CMD build 
+/*.tar.gz
+
+
+#output files from R CMD check
+/*.Rcheck/
+
+
+#R studio file s
+.Rproj.user/
+
+
+#produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+#Oauth
+.httr-oauth
+
+#knit and markdown 
+*_cache/
+/cache/
+
+#temporary files created by r markdown 
+*.utf8.md
+*.knit.md
+
+#R evronmennt variables 
+.Renviron 
