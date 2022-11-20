@@ -23,11 +23,11 @@ output:
 # Valeriya Basyrova
 I am from  Ekaterinburg, Russia and am living in Milan Italy. I am persuing a masters in Linguistics.I love all languages. My specilaization is in English russian and Italian.
 
-1.  See the [Russian page](https://ongevic.github.io/V-I-C-T-O-R/Journal.html) for Rusian resources.
+1.  See the [Russian page](https://ongevic.github.io/lera/Russian.html) for Rusian resources.
 
-1.  See the [English page](https://ongevic.github.io/V-I-C-T-O-R/Journal.html) for English resources.
+1.  See the [English page](https://ongevic.github.io/lera/English.html) for English resources.
 
-1.  See the [Italian page](https://ongevic.github.io/V-I-C-T-O-R/Journal.html) for Italian resources.
+1.  See the [Italian page](https://ongevic.github.io/lera/Italian.html) for Italian resources.
 
 **Cape Diem**
 :::
